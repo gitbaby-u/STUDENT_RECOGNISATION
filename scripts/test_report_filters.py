@@ -41,3 +41,4 @@ if __name__ == "__main__":
     
     # 4. Out of range filter
     test_report({"startDate": "2020-01-01", "endDate": "2020-01-02"})
+#
