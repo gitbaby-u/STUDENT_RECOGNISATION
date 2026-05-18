@@ -45,7 +45,7 @@ Make sure the Flask backend is running on `http://localhost:5050`.
 5. **Group Attendance**: Upload multiple photos for batch processing
 6. **Reports**: Download generated Excel attendance sheets
 
-## Technologies Used
+# Technologies Used
 
 - React 18
 - React Router for navigation
